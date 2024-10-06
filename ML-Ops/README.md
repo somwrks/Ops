@@ -5,23 +5,26 @@
 - Notes compilation based on lecture slides and video transcripts
 - Link to course: https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/
 
-Course 1: Introduction to Machine Learning in Production  
-Course 2: Machine Learning Data Lifecycle in Production  
-Course 3: Machine Learning Modeling Pipelines in Production  
-Course 4: Deploying Machine Learning Models in Production  
 
 ### Summary Articles
-Course 1: https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752    
-Course 2: https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-2-13af51e22d90  
-Course 3: https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-3-9e67558212ee  
-Course 4: https://towardsdatascience.com/key-learning-points-from-mlops-specialization-course-4-ee39bbd2864b
+Week 1 - Overview of ML Lifecycle and Deployment.pdf
+Week 2 - Select and Train a Model.pdf
+Week 3 - Data Definition and Baseline.pdf
+Week 1 - Introduction to MLEP.pdf
+Week 2 - Feature Engineering, Transformation and Selection.pdf
+Week 3 - Data Journey and Data Storage.pdf
+Week 4 - Advanced Labeling, Augmentation and Data Preprocessing.pdf
+Week 1 - Neural Architecture Search.pdf
+Week 2 - Model Resource Management Techniques.pdf
+Week 3 - High-Performance Modeling.pdf
+Week 4 - Model Analysis.pdf
+Week 5 - Interpretability.pdf
+Week 1 - Model Serving Introduction.pdf
+Week 2 - Model Serving Patterns and Infrastructure.pdf
+Week 3 - Model Management and Delivery.pdf
+Week 4 - Model Monitoring and Logging.pdf
 
-___
-### Status
-Course 1: Notes completed ✅   
-Course 2: Notes completed ✅  
-Course 3: Notes completed ✅   
-Course 4: Notes completed ✅  
+
 
 ___
 #### Feedback/Suggestions
