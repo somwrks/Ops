@@ -7,23 +7,22 @@
 
 
 ### Summary Articles
-Week 1 - Overview of ML Lifecycle and Deployment.pdf
-Week 2 - Select and Train a Model.pdf
-Week 3 - Data Definition and Baseline.pdf
-Week 1 - Introduction to MLEP.pdf
-Week 2 - Feature Engineering, Transformation and Selection.pdf
-Week 3 - Data Journey and Data Storage.pdf
-Week 4 - Advanced Labeling, Augmentation and Data Preprocessing.pdf
-Week 1 - Neural Architecture Search.pdf
-Week 2 - Model Resource Management Techniques.pdf
-Week 3 - High-Performance Modeling.pdf
-Week 4 - Model Analysis.pdf
-Week 5 - Interpretability.pdf
-Week 1 - Model Serving Introduction.pdf
-Week 2 - Model Serving Patterns and Infrastructure.pdf
-Week 3 - Model Management and Delivery.pdf
-Week 4 - Model Monitoring and Logging.pdf
-
+[Week 1 - Overview of ML Lifecycle and Deployment.pdf](https://github.com/somwrks/Ops/blob/main/ML-Ops/1.%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201%20-%20Overview%20of%20ML%20Lifecycle%20and%20Deployment.pdf)
+[Week 2 - Select and Train a Model.pdf]()
+[Week 3 - Data Definition and Baseline.pdf]()
+[Week 1 - Introduction to MLEP.pdf]()
+[Week 2 - Feature Engineering, Transformation and Selection.pdf]()
+[Week 3 - Data Journey and Data Storage.pdf]()
+[Week 4 - Advanced Labeling, Augmentation and Data Preprocessing.pdf]()
+[Week 1 - Neural Architecture Search.pdf]()
+[Week 2 - Model Resource Management Techniques.pdf]()
+[Week 3 - High-Performance Modeling.pdf]()
+[Week 4 - Model Analysis.pdf]()
+[Week 5 - Interpretability.pdf]()
+[Week 1 - Model Serving Introduction.pdf]()
+[Week 2 - Model Serving Patterns and Infrastructure.pdf]()
+[Week 3 - Model Management and Delivery.pdf]()
+[Week 4 - Model Monitoring and Logging.pdf]()
 
 
 ___
